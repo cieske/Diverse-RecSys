@@ -2,7 +2,7 @@
 [김지후님 repository](https://github.com/jihoo-kim/awesome-RecSys)를 보고 영감을 받아 만들었습니다. 제 관심사 중 하나인 diverse recommendation 관련 제가 찾은 논문들 list입니다.
 
 ## Papers
-* [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks] (https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun)
+* [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun)
 * [div2vec: Diversity-Emphasized Node Embedding](https://arxiv.org/ftp/arxiv/papers/2009/2009.09588.pdf) (RecSys'20, Jisu Jeong)
 * [Sequential and Diverse Recommendation with Long Tail](https://www.ijcai.org/Proceedings/2019/0380.pdf) (IJCAI'19, Yejin Kim)
 * [PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation](https://www.ijcai.org/Proceedings/2019/0537.pdf) (IJCAI'19, Qiong Wu)
