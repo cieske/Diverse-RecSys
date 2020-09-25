@@ -14,14 +14,14 @@ Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys
 * [Optimal Greedy Diversity for Recommendation](https://www.ijcai.org/Proceedings/15/Papers/248.pdf) (IJCAI'15, Azin Ashkan)
 
 
-### Metric
+### Diversity Metric
 * [Preference based evaluation measures for novelty and diversity](http://184pc128.csie.ntnu.edu.tw/presentation/14-04-08/Preference%20Based%20Evaluation%20Measures%20for%20Novelty%20and%20Diversity.pdf) (SIGIR'13, Praveen Chandar)
 * [Improving Aggregate Recommendation Diversity Using Ranking-Based Techniques](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.8174&rep=rep1&type=pdf) (2012, Gediminas Adomavicius)
 * [Rank and Relevance in Novelty and Diversity Metrics for Recommender Systems](http://ir.ii.uam.es/pubs/recsys11-vargas.pdf) (RecSys'11, Saúl Vargas)
 * [Novelty and Diversity in Information Retrieval Evaluation](https://plg.uwaterloo.ca/~gvcormac/novelty.pdf) (SIGIR'08, Charles L. A. Clarke)
 * [Improving Recommendation Lists Through Topic Diversification](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.9683&rep=rep1&type=pdf) (WWW'05, Cai-Nicolas Ziegler)
 
-### Survey
+### Diverse Recommendation Survey
 * [Recent Advances in Diversified Recommendation](https://arxiv.org/pdf/1905.06589.pdf) (19, Qiong Wu)
 * [Diversity in recommender systems – A survey](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf) (2017, Matevž Kunaver)
 * [A Survey of Diversification Techniques in Recommendation Systems](https://www.researchgate.net/publication/311610832_A_survey_of_diversification_techniques_in_Recommendation_Systems) (2016, Jayeeta Chakraborty)
