@@ -1,5 +1,5 @@
 # Diverse-RecSys
-[김지후님 repository](https://github.com/jihoo-kim/awesome-RecSys)를 보고 영감을 받아 만들었습니다. 제 관심사 중 하나인 diverse recommendation 관련 제가 찾은 논문들 list입니다.
+Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys), I share the collection of papers of diverse recommender system what I currently interested in.
 
 ## Papers
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun)
