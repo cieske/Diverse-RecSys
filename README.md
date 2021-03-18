@@ -1,7 +1,7 @@
 # Diverse-RecSys
 Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys), I share the collection of papers of diverse recommender system what I currently interested in.
 
-Here is my [Notion page](https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=b2a652d85c3c4d61aed15d3d8a9b8bc2) which is similar to this repository, I add tags and a brief summary of what I read in notion.
+Here is my [Notion page](https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=b2a652d85c3c4d61aed15d3d8a9b8bc2) which is similar to this repository, I add tags and a brief summary of what I read in notion. In notion, I will update first what I read recently so that some of the paper in here will not be added to notion page. Just reading a paper and making a brief summary is very different, so I will review papers here ASAP and add to notion. Also, there are many new diverse recommendation papers published, I will add them in this repository and notion as much as I can.
 
 ## Papers
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun et al.)
