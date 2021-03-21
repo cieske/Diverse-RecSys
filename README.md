@@ -3,6 +3,8 @@ Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys
 
 Here is my [Notion page](https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=b2a652d85c3c4d61aed15d3d8a9b8bc2) which is similar to this repository, I add tags and make a brief summary of papers I've read. In notion page, I will update first what I read recently so that some of the paper in here will not be added to notion page. Just reading a paper and making a brief summary is very different, so I will review papers here ASAP and add to notion. Also, there are many new diverse recommendation papers published, I will add them in this repository and notion as much as I can.
 
+Besides, I add some papers that can help to understand general recommendation, and various learning methods can be applied to recommendation systems.
+
 ## Papers
 * [Diversified Interactive Recommendation with Implicit Feedback](https://aaai.org/ojs/index.php/AAAI/article/view/5931/5787) (AAAI'20, Yong Liu et al.)
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun et al.)
@@ -28,3 +30,7 @@ Here is my [Notion page](https://www.notion.so/cieske/10497a936fa84b089c721e741e
 * [Recent Advances in Diversified Recommendation](https://arxiv.org/pdf/1905.06589.pdf) (19, Qiong Wu et al.)
 * [Diversity in recommender systems – A survey](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf) (2017, Matevž Kunaver et al.)
 * [A Survey of Diversification Techniques in Recommendation Systems](https://www.researchgate.net/publication/311610832_A_survey_of_diversification_techniques_in_Recommendation_Systems) (2016, Jayeeta Chakraborty et al.)
+
+
+## Another RecSys papers
+* [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf) (UAI'09, Steffen Rendle et al.)
