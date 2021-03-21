@@ -35,3 +35,7 @@ Besides, I add some papers that can help to understand general recommendation, a
 
 ## Another RecSys papers
 * [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf) (UAI'09, Steffen Rendle et al.)
+
+
+## Various mathods can applied to Diverse-RecSys
+* [k-DPPs: Fixed-Size Determinantal Point Processes](https://icml.cc/2011/papers/611_icmlpaper.pdf) (ICML'11, Alex Kulesza et al.)
