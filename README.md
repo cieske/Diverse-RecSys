@@ -13,6 +13,7 @@ Besides, I add some papers that can help to understand general recommendation, a
 * [PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation](https://www.ijcai.org/Proceedings/2019/0537.pdf) (IJCAI'19, Qiong Wu et al.)
 * [Diversity-Promoting Deep Reinforcement Learning for Interactive Recommendation](https://arxiv.org/pdf/1903.07826.pdf) (2019, Yong Liu et al.)
 * [A Joint Optimization Approach for Personalized Recommendation Diversification](http://www.ruizhang.info/publications/PAKDD2018_Personalized%20Recommendation%20Diversification.pdf) (PAKDD'18, Xiaojie Wang et al.)
+* [Fast greedy map inference for determinantal point process to improve recommendation diversity](https://proceedings.neurips.cc/paper/2018/file/dbbf603ff0e99629dda5d75b6f75f966-Paper.pdf) (NeurIPS'18, Laming Chen et al.)
 * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes](https://jgillenw.com/cikm2018.pdf) (CIKM'18, Mark Wilhelm et al.)
 * [Learning to Recommend Accurate and Diverse Items](http://wangshuaiqiang.net/publications/WWW17.pdf) (WWW'17, Peizhe Cheng et al.)
 * [Post Processing Recommender Systems for Diversity](http://www.contrib.andrew.cmu.edu/~ravi/kdd17.pdf) (KDD'17, Arda Antikacioglu et al.)
