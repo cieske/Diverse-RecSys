@@ -33,9 +33,14 @@ Besides, I add some papers that can help to understand general recommendation, a
 * [A Survey of Diversification Techniques in Recommendation Systems](https://www.researchgate.net/publication/311610832_A_survey_of_diversification_techniques_in_Recommendation_Systems) (2016, Jayeeta Chakraborty et al.)
 
 
-## Another RecSys papers
-* [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf) (UAI'09, Steffen Rendle et al.)
-
-
 ## Various mathods can applied to Diverse-RecSys
 * [k-DPPs: Fixed-Size Determinantal Point Processes](https://icml.cc/2011/papers/611_icmlpaper.pdf) (ICML'11, Alex Kulesza et al.)
+
+
+## Another RecSys papers
+* [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf) (UAI'09, Steffen Rendle et al.)
+* [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf) (09, Yehuda Koren et al.)
+* [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf) (WWW'18, Dawen Liang et al.)
+* [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://alicezheng.org/papers/wsdm16-cdae.pdf) (WSDM'16, Yao Wu et al.)
+* [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf) (WWW'17, Xiangnan He et al.)
+* [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) (SIGIR'19, Xiang Wang)
