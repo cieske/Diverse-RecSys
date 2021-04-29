@@ -5,7 +5,7 @@ Here is my [Notion page](https://www.notion.so/cieske/10497a936fa84b089c721e741e
 
 Besides, I add some papers that can help to understand general recommendation, and various learning methods can be applied to recommendation systems.
 
-## Papers
+## Diverse Recommendation Papers
 * [Diversified Interactive Recommendation with Implicit Feedback](https://aaai.org/ojs/index.php/AAAI/article/view/5931/5787) (AAAI'20, Yong Liu et al.)
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun et al.)
 * [div2vec: Diversity-Emphasized Node Embedding](https://arxiv.org/ftp/arxiv/papers/2009/2009.09588.pdf) (RecSys'20, Jisu Jeong et al.)
@@ -37,7 +37,7 @@ Besides, I add some papers that can help to understand general recommendation, a
 * [k-DPPs: Fixed-Size Determinantal Point Processes](https://icml.cc/2011/papers/611_icmlpaper.pdf) (ICML'11, Alex Kulesza et al.)
 
 
-## Another RecSys papers
+## Another RecSys Papers
 * [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf) (UAI'09, Steffen Rendle et al.)
 * [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf) (09, Yehuda Koren et al.)
 * [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf) (WWW'18, Dawen Liang et al.)
