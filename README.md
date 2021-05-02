@@ -1,4 +1,4 @@
-# Diverse-RecSys
+# Awesome Diverse-RecSys Papers
 Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys), I share the collection of papers of diverse recommender system what I currently interested in.
 
 Here is my [Notion page](https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=b2a652d85c3c4d61aed15d3d8a9b8bc2) which is similar to this repository, I add tags and make a brief summary of papers I've read. In notion page, I will update first what I read recently so that some of the paper in here will not be added to notion page. Just reading a paper and making a brief summary is very different, so I will review papers here ASAP and add to notion. Also, there are many new diverse recommendation papers published, I will add them in this repository and notion as much as I can.
