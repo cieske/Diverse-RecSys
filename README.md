@@ -7,7 +7,6 @@ Besides, I add some papers that can help to understand general recommendation, a
 
 ## Diverse Recommendation Papers
 * [Towards Long-term Fairness in Recommendation](https://arxiv.org/pdf/2101.03584.pdf) (WSDM'21, Yingqiang Ge et al.)
-* [Algorithmic Effects on the Diversity of Consumption on Spotify](http://www.cs.toronto.edu/~ashton/pubs/alg-effects-spotify-www2020.pdf) (WWW'20, Ashton Anderson et al.)
 * [Diversified Interactive Recommendation with Implicit Feedback](https://aaai.org/ojs/index.php/AAAI/article/view/5931/5787) (AAAI'20, Yong Liu et al.)
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun et al.)
 * [div2vec: Diversity-Emphasized Node Embedding](https://arxiv.org/ftp/arxiv/papers/2009/2009.09588.pdf) (RecSys'20, Jisu Jeong et al.)
@@ -23,6 +22,7 @@ Besides, I add some papers that can help to understand general recommendation, a
 
 
 ### Diversity Metric
+* [Algorithmic Effects on the Diversity of Consumption on Spotify](http://www.cs.toronto.edu/~ashton/pubs/alg-effects-spotify-www2020.pdf) (WWW'20, Ashton Anderson et al.)
 * [Preference based evaluation measures for novelty and diversity](http://184pc128.csie.ntnu.edu.tw/presentation/14-04-08/Preference%20Based%20Evaluation%20Measures%20for%20Novelty%20and%20Diversity.pdf) (SIGIR'13, Praveen Chandar et al.)
 * [Improving Aggregate Recommendation Diversity Using Ranking-Based Techniques](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.8174&rep=rep1&type=pdf) (2012, Gediminas Adomavicius et al.)
 * [Rank and Relevance in Novelty and Diversity Metrics for Recommender Systems](http://ir.ii.uam.es/pubs/recsys11-vargas.pdf) (RecSys'11, Saúl Vargas et al.)
