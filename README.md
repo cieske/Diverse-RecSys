@@ -3,7 +3,7 @@ Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys
 
 Here is my [Notion page](https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=b2a652d85c3c4d61aed15d3d8a9b8bc2) which is similar to this repository, I add tags and make a brief summary of papers I've read. In notion page, I will update first what I read recently so that some of the paper in here will not be added to notion page. Just reading a paper and making a brief summary is very different, so I will review papers here ASAP and add to notion. Also, there are many new diverse recommendation papers published, I will add them in this repository and notion as much as I can.
 
-Besides, I add some papers that can help to understand general recommendation, and various learning methods can be applied to recommendation systems.
+Besides, I add some papers that can help to understand various topics in recommendation, and various learning methods can be applied to recommendation systems.
 
 ## Diverse Recommendation Papers
 * [Shifting Consumption towards Diverse Content on Music Streaming Platforms](https://dl.acm.org/doi/10.1145/3437963.3441775) (WSDM'21, Christian Hansen et al.)
@@ -38,13 +38,16 @@ Besides, I add some papers that can help to understand general recommendation, a
 
 
 ## Various mathods can applied to Diverse-RecSys
+* [Further Optimal Regret Bounds for Thompson Sampling](http://proceedings.mlr.press/v31/agrawal13a.pdf) (AISTATS'13, Shipra Agrawal et al.)
 * [k-DPPs: Fixed-Size Determinantal Point Processes](https://icml.cc/2011/papers/611_icmlpaper.pdf) (ICML'11, Alex Kulesza et al.)
 
 
 ## Another RecSys Papers
+* [Session-based Recommendation with Graph Neural Networks](https://arxiv.org/pdf/1811.00855.pdf) (AAAI'19, Shu Wu et al.)
+* [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) (SIGIR'19, Xiang Wang et al.)
+* [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf) (WWW'18, Dawen Liang et al.)
+* [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf) (WWW'17, Xiangnan He et al.)
+* [Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/pdf/1511.06939.pdf) (ICLR'16, Balazs Hidasi et al.)
+* [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://alicezheng.org/papers/wsdm16-cdae.pdf) (WSDM'16, Yao Wu et al.)
 * [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf) (UAI'09, Steffen Rendle et al.)
 * [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf) (09, Yehuda Koren et al.)
-* [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf) (WWW'18, Dawen Liang et al.)
-* [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://alicezheng.org/papers/wsdm16-cdae.pdf) (WSDM'16, Yao Wu et al.)
-* [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf) (WWW'17, Xiangnan He et al.)
-* [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) (SIGIR'19, Xiang Wang)
