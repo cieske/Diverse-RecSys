@@ -6,6 +6,8 @@ Here is my [Notion page](https://www.notion.so/cieske/10497a936fa84b089c721e741e
 Besides, I add some papers that can help to understand general recommendation, and various learning methods can be applied to recommendation systems.
 
 ## Diverse Recommendation Papers
+* [Shifting Consumption towards Diverse Content on Music Streaming Platforms](https://dl.acm.org/doi/10.1145/3437963.3441775) (WSDM'21, Christian Hansen et al.)
+* [Diverse User Preference Elicitation with Multi-Armed Bandits](https://dl.acm.org/doi/10.1145/3437963.3441786) (WSDM'21, Javier Parapar et al.)
 * [Towards Long-term Fairness in Recommendation](https://arxiv.org/pdf/2101.03584.pdf) (WSDM'21, Yingqiang Ge et al.)
 * [Diversified Interactive Recommendation with Implicit Feedback](https://aaai.org/ojs/index.php/AAAI/article/view/5931/5787) (AAAI'20, Yong Liu et al.)
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun et al.)
