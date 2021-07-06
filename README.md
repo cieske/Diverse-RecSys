@@ -48,6 +48,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 
 
 ## Another RecSys Papers
+* [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/pdf/2011.02260.pdf) (20, Shiwen Wu et al.)
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20, Xiangnan He et al.)
 * [Session-based Recommendation with Graph Neural Networks](https://arxiv.org/pdf/1811.00855.pdf) (AAAI'19, Shu Wu et al.)
 * [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) (SIGIR'19, Xiang Wang et al.)
