@@ -12,6 +12,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 * [Diversified Interactive Recommendation with Implicit Feedback](https://aaai.org/ojs/index.php/AAAI/article/view/5931/5787) (AAAI'20, Yong Liu et al.)
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun et al.)
 * [Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf) (KDD'20, Mustafa Abdool et al.)
+* [DVGAN: A Minimax Game for Search Result Diversification Combining Explicit and Implicit Features](http://playbigdata.ruc.edu.cn/dou/publication/2020_sigir_divgan.pdf) (SIGIR'20, Qiong Wu et al.)
 * [Enhancing Recommendation Diversity using Determinantal Point Processes on Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3397271.3401213) (SIGIR'20, Lu Gan et al.)
 * [Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity](https://arxiv.org/pdf/1912.00508.pdf) (Recsys'20, Chang Li et al.)
 * [div2vec: Diversity-Emphasized Node Embedding](https://arxiv.org/ftp/arxiv/papers/2009/2009.09588.pdf) (RecSys'20, Jisu Jeong et al.)
