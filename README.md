@@ -43,6 +43,8 @@ Besides, I add some papers that can help to understand various topics in recomme
 
 
 ## Various mathods can applied to Diverse-RecSys
+* [Bayesian Graph Convolutional Neural Networks using Node Copying](https://arxiv.org/pdf/1911.04965.pdf) (ICML'19, Soumyasundar Pal et al.)
+* [Bayesian graph convolutional neural networks for semi-supervised classification](https://arxiv.org/pdf/1811.11103.pdf) (AAAI'19, Yingxue Zhang et al)
 * [Further Optimal Regret Bounds for Thompson Sampling](http://proceedings.mlr.press/v31/agrawal13a.pdf) (AISTATS'13, Shipra Agrawal et al.)
 * [k-DPPs: Fixed-Size Determinantal Point Processes](https://icml.cc/2011/papers/611_icmlpaper.pdf) (ICML'11, Alex Kulesza et al.)
 
