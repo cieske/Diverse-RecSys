@@ -6,10 +6,17 @@ Here is my [Notion page](https://www.notion.so/cieske/Recommender-systems-paper-
 Besides, I add some papers that can help to understand various topics in recommendation, and various learning methods can be applied to recommendation systems.
 
 ## Diverse Recommendation Papers
+* [Multi-Session Diversity to Improve User Satisfaction in Web Applications](https://dl.acm.org/doi/abs/10.1145/3442381.3450046) (WWW'21, Mohammadreza Esfandiari et al.)
+* [DGCN: Diversified Recommendation with Graph Convolutional Networks](http://fi.ee.tsinghua.edu.cn/public/publications/b344fd48-92b0-11eb-96bc-0242ac120003.pdf) (WWW'21, Yu Zheng et al.)
+* [Future-Aware Diverse Trends Framework for Recommendation](https://arxiv.org/pdf/2011.00422.pdf) (WWW'21, Yujie Lu et al.)
+* [Random Walks with Erasure: Diversifying Personalized Recommendations on Social and Information Networks](https://arxiv.org/pdf/2102.09635.pdf) (WWW'21, Bibek Paudel
+ et al.)
+* [A Hybrid Bandit Framework for Diversified Recommendation](https://arxiv.org/pdf/2012.13245.pdf) (AAAI'21, Qinxu Ding et al.)
 * [Shifting Consumption towards Diverse Content on Music Streaming Platforms](https://dl.acm.org/doi/10.1145/3437963.3441775) (WSDM'21, Christian Hansen et al.)
 * [Diverse User Preference Elicitation with Multi-Armed Bandits](https://dl.acm.org/doi/pdf/10.1145/3437963.3441786) (WSDM'21, Javier Parapar et al.)
 * [Towards Long-term Fairness in Recommendation](https://arxiv.org/pdf/2101.03584.pdf) (WSDM'21, Yingqiang Ge et al.)
 * [Diversified Interactive Recommendation with Implicit Feedback](https://aaai.org/ojs/index.php/AAAI/article/view/5931/5787) (AAAI'20, Yong Liu et al.)
+* [Improving End-to-End Sequential Recommendations with Intent-aware Diversification](https://arxiv.org/pdf/1908.10171.pdf) (CIKM'20, Wanyu Chen et al.)
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun et al.)
 * [Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf) (KDD'20, Mustafa Abdool et al.)
 * [DVGAN: A Minimax Game for Search Result Diversification Combining Explicit and Implicit Features](http://playbigdata.ruc.edu.cn/dou/publication/2020_sigir_divgan.pdf) (SIGIR'20, Qiong Wu et al.)
