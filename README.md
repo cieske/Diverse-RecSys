@@ -34,6 +34,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 * [Learning to Recommend Accurate and Diverse Items](http://wangshuaiqiang.net/publications/WWW17.pdf) (WWW'17, Peizhe Cheng et al.)
 * [Post Processing Recommender Systems for Diversity](http://www.contrib.andrew.cmu.edu/~ravi/kdd17.pdf) (KDD'17, Arda Antikacioglu et al.)
 * [Optimal Greedy Diversity for Recommendation](https://www.ijcai.org/Proceedings/15/Papers/248.pdf) (IJCAI'15, Azin Ashkan et al.)
+* [Novel Recommendation Based on Personal Popularity Tendency](https://ieeexplore.ieee.org/document/6137255) (ICDM'11, Jinoh Oh et al.)
 
 
 ### Diversity Metric
