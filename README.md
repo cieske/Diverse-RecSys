@@ -4,9 +4,14 @@ Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys
 Here is my [Notion page](https://www.notion.so/cieske/Recommender-systems-paper-with-brief-summary-171cd4a126774cf6895f2edfb3b21e7c) which is similar to this repository, I add tags & a very brief summary & some comments and questions(not for all) of papers I've read. In notion page, I will update first what I read recently so that some of the paper in here will not be added to notion page. I will review papers here ASAP and add to notion. Also, there are many new diverse recommendation papers published, I will add them in this repository and notion as much as I can.
 
 Besides, I add some papers that can help to understand various topics in recommendation, and various learning methods can be applied to recommendation systems.
-* To be update: SIGIR'21, Recsys'21
+* To be update: Recsys'21
 
 ## Diverse Recommendation Papers
+* [Sliding Spectrum Decomposition for Diversified Recommendation](https://arxiv.org/pdf/2107.05204.pdf) (KDD'21, Yanhua Huang et al.)
+* [Fairness among New Items in Cold Start Recommender Systems](https://dl.acm.org/doi/10.1145/3404835.3462948) (SIGIR'21, Ziwei Zhu et al.)
+* [Modeling Intent Graph for Search Result Diversification](https://dl.acm.org/doi/10.1145/3404835.3462872) (SIGIR'21, Zhan Su et al.)
+* [Graph Meta Network for Multi-Behavior Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462972) (SIGIR'21, Lianghao Xia et al.)
+* [Enhancing Domain-Level and User-Level Adaptivity in Diversified Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462957) (SIGIR'21, Yile Liang et al.)
 * [Multi-Session Diversity to Improve User Satisfaction in Web Applications](https://dl.acm.org/doi/abs/10.1145/3442381.3450046) (WWW'21, Mohammadreza Esfandiari et al.)
 * [DGCN: Diversified Recommendation with Graph Convolutional Networks](http://fi.ee.tsinghua.edu.cn/public/publications/b344fd48-92b0-11eb-96bc-0242ac120003.pdf) (WWW'21, Yu Zheng et al.)
 * [Future-Aware Diverse Trends Framework for Recommendation](https://arxiv.org/pdf/2011.00422.pdf) (WWW'21, Yujie Lu et al.)
