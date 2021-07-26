@@ -7,6 +7,8 @@ Besides, I add some papers that can help to understand various topics in recomme
 * To be update: Recsys'21
 
 ## Diverse Recommendation Papers
+* [Auditing for Diversity using Representative Examples](https://arxiv.org/pdf/2107.07393.pdf) (KDD'21, Vijay Keswani et al.)
+* [PcDGAN: A Continuous Conditional Diverse Generative Adversarial Network For Inverse Design](https://arxiv.org/pdf/2106.03620.pdf) (KDD'21, Amin Heyrani Nobari et al.)
 * [Sliding Spectrum Decomposition for Diversified Recommendation](https://arxiv.org/pdf/2107.05204.pdf) (KDD'21, Yanhua Huang et al.)
 * [Fairness among New Items in Cold Start Recommender Systems](https://dl.acm.org/doi/10.1145/3404835.3462948) (SIGIR'21, Ziwei Zhu et al.)
 * [Modeling Intent Graph for Search Result Diversification](https://dl.acm.org/doi/10.1145/3404835.3462872) (SIGIR'21, Zhan Su et al.)
