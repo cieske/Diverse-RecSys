@@ -27,6 +27,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 * [Towards Long-term Fairness in Recommendation](https://arxiv.org/pdf/2101.03584.pdf) (WSDM'21, Yingqiang Ge et al.)
 * [Diversified Interactive Recommendation with Implicit Feedback](https://aaai.org/ojs/index.php/AAAI/article/view/5931/5787) (AAAI'20, Yong Liu et al.)
 * [Improving End-to-End Sequential Recommendations with Intent-aware Diversification](https://arxiv.org/pdf/1908.10171.pdf) (CIKM'20, Wanyu Chen et al.)
+* [Controllable Multi-Interest Framework for Recommendation](https://arxiv.org/pdf/2005.09347.pdf) (KDD'20. Yukuo Cen et al.)
 * [A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254) (KDD'20, Jianing Sun et al.)
 * [Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf) (KDD'20, Mustafa Abdool et al.)
 * [DVGAN: A Minimax Game for Search Result Diversification Combining Explicit and Implicit Features](http://playbigdata.ruc.edu.cn/dou/publication/2020_sigir_divgan.pdf) (SIGIR'20, Qiong Wu et al.)
