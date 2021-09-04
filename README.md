@@ -35,6 +35,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 * [Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity](https://arxiv.org/pdf/1912.00508.pdf) (Recsys'20, Chang Li et al.)
 * [div2vec: Diversity-Emphasized Node Embedding](https://arxiv.org/ftp/arxiv/papers/2009/2009.09588.pdf) (RecSys'20, Jisu Jeong et al.)
 * [MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search](http://proceedings.mlr.press/v108/han20b/han20b.pdf) (AISTATS'20, Insu Han et al.)
+* [Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](https://arxiv.org/pdf/1904.08030.pdf) (CIKM'19, Chao Li et al.)
 * [Sequential and Diverse Recommendation with Long Tail](https://www.ijcai.org/Proceedings/2019/0380.pdf) (IJCAI'19, Yejin Kim et al.)
 * [PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation](https://www.ijcai.org/Proceedings/2019/0537.pdf) (IJCAI'19, Qiong Wu et al.)
 * [Diversity-Promoting Deep Reinforcement Learning for Interactive Recommendation](https://arxiv.org/pdf/1903.07826.pdf) (19, Yong Liu et al.)
@@ -55,18 +56,19 @@ Besides, I add some papers that can help to understand various topics in recomme
 * [Novelty and Diversity in Information Retrieval Evaluation](https://plg.uwaterloo.ca/~gvcormac/novelty.pdf) (SIGIR'08, Charles L. A. Clarke et al.)
 * [Improving Recommendation Lists Through Topic Diversification](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.9683&rep=rep1&type=pdf) (WWW'05, Cai-Nicolas Ziegler et al.)
 
+
 ### Diverse Recommendation Survey
 * [Recent Advances in Diversified Recommendation](https://arxiv.org/pdf/1905.06589.pdf) (19, Qiong Wu et al.)
 * [Diversity in recommender systems – A survey](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf) (17, Matevž Kunaver et al.)
 * [A Survey of Diversification Techniques in Recommendation Systems](https://www.researchgate.net/publication/311610832_A_survey_of_diversification_techniques_in_Recommendation_Systems) (16, Jayeeta Chakraborty et al.)
 
 
-## Various mathods can applied to Diverse-RecSys
+## Various mathods can applied to Diverse-RecSys\
+* [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/pdf/1912.02413.pdf) (CVPR'20, Boyan Zhou et al.)
 * [Bayesian Graph Convolutional Neural Networks using Node Copying](https://arxiv.org/pdf/1911.04965.pdf) (ICML'19, Soumyasundar Pal et al.)
 * [Bayesian graph convolutional neural networks for semi-supervised classification](https://arxiv.org/pdf/1811.11103.pdf) (AAAI'19, Yingxue Zhang et al)
 * [Further Optimal Regret Bounds for Thompson Sampling](http://proceedings.mlr.press/v31/agrawal13a.pdf) (AISTATS'13, Shipra Agrawal et al.)
 * [k-DPPs: Fixed-Size Determinantal Point Processes](https://icml.cc/2011/papers/611_icmlpaper.pdf) (ICML'11, Alex Kulesza et al.)
-
 
 
 ## Another RecSys Papers
