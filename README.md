@@ -7,6 +7,8 @@ Besides, I add some papers that can help to understand various topics in recomme
 * To be update: Recsys'21
 
 ## Diverse Recommendation Papers
+* [I Want to Break Free! Recommending Friends from Outside the Echo Chamber](https://dl.acm.org/doi/10.1145/3460231.3474270) (Recsys'21, Antonela Tommasel et al.
+)
 * [Dynamic Graph Construction for Improving Diversity of Recommendation](https://dl.acm.org/doi/10.1145/3460231.3478845) (Recsys'21, Rui Ye et al.)
 * [Towards Unified Metrics for Accuracy and Diversity for Recommender Systems](https://research.google/pubs/pub50607/) (Recsys'21, Javier Parapar et al.)
 * [Auditing for Diversity using Representative Examples](https://arxiv.org/pdf/2107.07393.pdf) (KDD'21, Vijay Keswani et al.)
