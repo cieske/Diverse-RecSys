@@ -11,6 +11,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 )
 * [Dynamic Graph Construction for Improving Diversity of Recommendation](https://dl.acm.org/doi/10.1145/3460231.3478845) (Recsys'21, Rui Ye et al.)
 * [Towards Unified Metrics for Accuracy and Diversity for Recommender Systems](https://research.google/pubs/pub50607/) (Recsys'21, Javier Parapar et al.)
+* [Popularity Bias in Dynamic Recommendation](http://people.tamu.edu/~zhuziwei/pubs/Ziwei_KDD_2021.pdf) (KDD'21, Ziwei Zhu et al.)
 * [Auditing for Diversity using Representative Examples](https://arxiv.org/pdf/2107.07393.pdf) (KDD'21, Vijay Keswani et al.)
 * [PcDGAN: A Continuous Conditional Diverse Generative Adversarial Network For Inverse Design](https://arxiv.org/pdf/2106.03620.pdf) (KDD'21, Amin Heyrani Nobari et al.)
 * [Sliding Spectrum Decomposition for Diversified Recommendation](https://arxiv.org/pdf/2107.05204.pdf) (KDD'21, Yanhua Huang et al.)
