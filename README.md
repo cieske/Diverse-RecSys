@@ -20,7 +20,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 * [Modeling Intent Graph for Search Result Diversification](https://dl.acm.org/doi/10.1145/3404835.3462872) (SIGIR'21, Zhan Su et al.)
 * [Graph Meta Network for Multi-Behavior Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462972) (SIGIR'21, Lianghao Xia et al.)
 * [Enhancing Domain-Level and User-Level Adaptivity in Diversified Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462957) (SIGIR'21, Yile Liang et al.)
-* [Accuracy-diversity trade-off in recommender systems via graph convolutions](https://www.sciencedirect.com/science/article/pii/S0306457320309511#!) (Elvin Isufi(Delft Univ.) et al.)
+* [Accuracy-diversity trade-off in recommender systems via graph convolutions](https://www.sciencedirect.com/science/article/pii/S0306457320309511#!) (Information Processing & Management(Mar'21), Elvin Isufi(Delft Univ.) et al.)
 * [Multi-Session Diversity to Improve User Satisfaction in Web Applications](https://dl.acm.org/doi/abs/10.1145/3442381.3450046) (WWW'21, Mohammadreza Esfandiari et al.)
 * [DGCN: Diversified Recommendation with Graph Convolutional Networks](http://fi.ee.tsinghua.edu.cn/public/publications/b344fd48-92b0-11eb-96bc-0242ac120003.pdf) (WWW'21, Yu Zheng et al.)
 * [Future-Aware Diverse Trends Framework for Recommendation](https://arxiv.org/pdf/2011.00422.pdf) (WWW'21, Yujie Lu et al.)
