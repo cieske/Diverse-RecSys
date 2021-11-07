@@ -7,6 +7,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 * To be update: Recsys'21
 
 ## Diverse Recommendation Papers
+* [On the Diversity and Explainability of Recommender Systems: A Practical Framework for Enterprise App Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3481940) (CIKM'21, Wenzhuo Yang(Salesforce Research) et al.)
 * [Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network](https://arxiv.org/pdf/2102.03787.pdf) (IEEE T-Big data(Early Access), Ruobing Xie(Tencent) et al.)
 * [I Want to Break Free! Recommending Friends from Outside the Echo Chamber](https://dl.acm.org/doi/10.1145/3460231.3474270) (Recsys'21, Antonela Tommasel et al.
 )
