@@ -4,7 +4,7 @@ Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys
 Here is my [Notion page](https://www.notion.so/cieske/Recommender-systems-paper-with-brief-summary-171cd4a126774cf6895f2edfb3b21e7c) which is similar to this repository, I add tags & a very brief summary & some comments and questions(not for all) of papers I've read. In notion page, I will update first what I read recently so that some of the paper in here will not be added to notion page. I will review papers here ASAP and add to notion. Also, there are many new diverse recommendation papers published, I will add them in this repository and notion as much as I can.
 
 Besides, I add some papers that can help to understand various topics in recommendation, and various learning methods can be applied to recommendation systems.
-* To be update: Recsys'21
+* To be update: CIKM'21
 
 ## Diverse Recommendation Papers
 * [On the Diversity and Explainability of Recommender Systems: A Practical Framework for Enterprise App Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3481940) (CIKM'21, Wenzhuo Yang(Salesforce Research) et al.)
