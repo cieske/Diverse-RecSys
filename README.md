@@ -7,6 +7,7 @@ Besides, I add some papers that can help to understand various topics in recomme
 * To be update: 2022!
 
 ## Diverse Recommendation Papers
+* [Choosing the Best of Both Worlds: Diverse and Novel Recommendations through Multi-Objective Reinforcement Learning](https://arxiv.org/pdf/2110.15097.pdf) (WSDM'22, Dusan Stamenković(University of Novi Sad) et al.)
 * [On the Diversity and Explainability of Recommender Systems: A Practical Framework for Enterprise App Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3481940) (CIKM'21, Wenzhuo Yang(Salesforce Research) et al.)
 * [Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network](https://arxiv.org/pdf/2102.03787.pdf) (IEEE T-Big data(Early Access), Ruobing Xie(Tencent) et al.)
 * [I Want to Break Free! Recommending Friends from Outside the Echo Chamber](https://dl.acm.org/doi/10.1145/3460231.3474270) (Recsys'21, Antonela Tommasel et al.
