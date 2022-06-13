@@ -4,7 +4,7 @@ Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys
 There are many new diverse recommendation papers published, I will add them in this repository and notion as much as I can.
 
 Besides, I add some papers that can help to understand various topics in recommendation, and various learning methods can be applied to recommendation systems.
-* To be update: 2022!
+* To be update: KDD'22, WWW'22, SIGIR'22
 
 ## Diverse Recommendation Papers
 * [Choosing the Best of Both Worlds: Diverse and Novel Recommendations through Multi-Objective Reinforcement Learning](https://arxiv.org/pdf/2110.15097.pdf) (WSDM'22, Dusan Stamenković(University of Novi Sad) et al.)
