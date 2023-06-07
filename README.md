@@ -1,3 +1,5 @@
+* Currently I'm on other works instead of recommendation system, so I don't have enough time to catch up new papers related to diverse recommendation system and update this repository. Papers below are before 2022.
+
 # Awesome Diverse-RecSys Papers
 Inspired by [Jihoo-Kim's repository](https://github.com/jihoo-kim/awesome-RecSys), I share the collection of papers of diverse recommender system what I currently interested in.
 
